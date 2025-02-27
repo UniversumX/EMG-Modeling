@@ -1,0 +1,26 @@
+# Ignore temporary files
+*.tmp
+temp/*
+
+# Ignore build artifacts
+build/
+out/
+bin/
+env/
+
+# Ignore log files
+*.log
+
+# Ignore IDE-specific files
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore node modules
+node_modules/
